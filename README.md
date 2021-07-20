@@ -10,8 +10,6 @@ Resources Referred:
 5) Augmented CelebA dataset : https://github.com/zhixinshu/NeuralFaceEditing
 
 
-Project Report avaialble at link: 
+Project Report avaialble at link: https://docs.google.com/document/d/15xiUsDdZbRoKWCpT4HHnocbVxNeQoJ6u4RydMSfRZUE/edit?usp=sharing
 
-
-Implementation Details:
 
