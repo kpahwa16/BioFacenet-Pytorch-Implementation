@@ -1,5 +1,7 @@
+
 # BioFacenet-Pytorch-Implementation
 
+This repo contains two implementations for the BioFacenet Paper, one involves the augmented CelebA dataset and the other uses the original CelebA dataset.
 
 Resources Referred:
 
